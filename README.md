@@ -1,4 +1,4 @@
-# Flask API para Pesquisa em Relatório CADOP
+# Flask API para Pesquisa em Arquivo CSV - Python
 
 Este código consiste em uma API Flask simples que permite realizar pesquisas em um conjunto de dados do Relatório CADOP, que é carregado a partir de um arquivo CSV. Abaixo está uma explicação detalhada do código:
 
