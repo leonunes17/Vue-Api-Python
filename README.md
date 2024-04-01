@@ -33,6 +33,11 @@ Este código consiste em um componente Vue.js para construir uma interface de pe
 
 Este README fornece uma visão geral do componente Vue.js para construir uma interface de pesquisa que interage com a API Flask. Certifique-se de configurar corretamente a URL base da API e ajustar o estilo conforme necessário para se adequar ao seu projeto.
 
+## Resultados de Busca
+
+![resultado_busca1](https://github.com/leonunes17/Vue-Api-Python/assets/96439824/5561d895-818b-4538-9354-bb4a9ca4e851)
+![resultado_busca2](https://github.com/leonunes17/Vue-Api-Python/assets/96439824/bef53db6-5c62-47db-ac1c-1adbc04d9f34)
+
 # Postman Collection
 
 Esta coleção do Postman foi criada para testar uma solicitação GET em uma API Flask que realiza uma pesquisa baseada em consulta.
